@@ -1,4 +1,2 @@
-career
-======
-
-Professional Journey
+All about my Professional Journey
+=================================
